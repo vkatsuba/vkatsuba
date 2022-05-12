@@ -5,9 +5,11 @@
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
-<img
+<a href="https://profile.codersrank.io/user/vkatsuba">
+  <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vkatsuba&skills=Erlang,CSS,JSON,JavaScript,Python,Shell,C&show-other-skills=true"
 />
+</a>
 
 <!--
 **vkatsuba/vkatsuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
